@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lucas Silva de Oliveira
 
-<!--
-**LucasSilvadO/LucasSilvadO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em **Matemática**  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🔎 Interesse em **Desenvolvimento Web, Lógica de Programação e Aplicações Educacionais**  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou apaixonado por aprender e aplicar tecnologia na resolução de problemas práticos.  
+Atualmente, estou desenvolvendo projetos em **HTML, CSS e JavaScript**, além de me aprofundar em algoritmos e boas práticas de programação.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- [Calculadora de Juros Simples e Compostos](https://github.com/LucasSilvadO/calculadora-juros)  
+Mais projetos virão em breve!  
+
+## 🌐 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/lucas-silva-74672a37a/)  
+- [GitHub](https://github.com/LucasSilvadO)
